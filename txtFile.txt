@@ -1,0 +1,2 @@
+Text file to test Git COmmit
+Addind second line to check git diff
